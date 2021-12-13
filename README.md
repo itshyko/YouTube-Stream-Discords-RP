@@ -21,7 +21,7 @@ All you need is Node.js installed
     
 ## Screenshots
 
-![Exemple](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Exemple](https://raw.githubusercontent.com/itshyko/YouTube-Stream-Discords-RP/main/screenshot.png)
 
 
 ## Authors
