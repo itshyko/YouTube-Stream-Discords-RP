@@ -17,7 +17,8 @@ Show in your Discord account that you're live on YouTube!
 All you need is Node.js installed
 
 ```bash
-  Open the start.bat file and enter the stream information
+  Run installer.bat for the first time.
+  Open the start.bat file and enter the stream information.
 ```
     
 ## Screenshots
